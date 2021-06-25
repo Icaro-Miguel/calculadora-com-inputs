@@ -1,0 +1,22 @@
+body{
+    background-color: lightcoral;
+}
+
+button{
+    background-color:lightskyblue;
+    color: white;
+    border: 1px solid black;
+    transition-duration: 0.2s ;
+    padding: 10px 14px;
+    border-radius: 100%;
+}
+
+button:hover{
+    color: lightskyblue;
+    background-color: white;
+    border: 1px solid black;
+}
+
+h1{
+    color: rgb(255, 0, 51);
+}
